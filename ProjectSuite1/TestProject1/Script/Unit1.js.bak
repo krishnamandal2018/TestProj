@@ -1,5 +1,5 @@
 ﻿function Test()
 {
   Sys.Browser("chrome").Page("https://www.google.com");
-  Log.Message("Google opened successfully");
+  Log.Message("Google.com opened successfully");
 }
