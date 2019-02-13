@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{B3DC915E-C594-4088-81B5-EC893EA5BA5A}">
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{B3DC915E-C594-4088-81B5-EC893EA5BA5A}">
 	<children>
-		<child name="TestProject1" key="{BF0C0499-6296-4DDA-8A5C-A455261283BC}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="TestProject1\TestProject1.mds" />
-		</child>
+		<child name="TestProject1" key="{BF0C0499-6296-4DDA-8A5C-A455261283BC}" path="TestProject1\TestProject1.mds" />
 	</children>
-	<folders />
 	<testItems key="{EB064E63-E15C-48B1-B45B-171F2F1ED09F}">
 		<children>
 			<testItem key="{BF0C0499-6296-4DDA-8A5C-A455261283BC}" enabled="True" timeout="0" stopOnError="True" description="" />
@@ -18,5 +15,7 @@
 	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
 		<data />
 	</scc>
-	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="True" />
+	</extender>
 </Root>

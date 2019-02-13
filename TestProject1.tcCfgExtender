@@ -32,6 +32,7 @@
 				<Node name="workspace">
 					<Node name="0">
 						<Node name="editor">
+							<Node name="{4f9540d5-d9ab-44cd-8dca-73f5f2e7a572}"/>
 							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}">
 								<Prp name="key" type="S" value="{1ED0C50D-38C2-4F3C-A827-40D0CEC78C89}"/>
 							</Node>
@@ -48,6 +49,7 @@
 								</Node>
 								<Prp name="key" type="S" value="{170E6DF0-6800-4A4D-876F-0D4E3AA93BBD}"/>
 							</Node>
+							<Node name="{eb7c9d82-bc63-4167-ad95-a6b053bbda71}"/>
 							<Prp name="editor" type="S" value="{D07F6FAA-B81F-4DD4-8C66-4AB790194D0B}"/>
 							<Prp name="focused" type="S" value="{170E6DF0-6800-4A4D-876F-0D4E3AA93BBD}"/>
 						</Node>
@@ -91,6 +93,10 @@
 					<Prp name="focused" type="S" value="{00000000-0000-0000-0000-000000000000}"/>
 					<Prp name="width" type="I" value="0"/>
 				</Node>
+			</Node>
+			<Node name="{dadeeeea-7bf7-4f7b-98d1-fc8ffe5fedae}">
+				<Node name="{02542b04-194a-4903-b727-27ddea5f3f24}"/>
+				<Node name="{8ee82d46-af98-4371-988c-39e367c94873}"/>
 			</Node>
 			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}">
 				<Node name="testproject1">
